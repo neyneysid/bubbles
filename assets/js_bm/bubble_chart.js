@@ -191,10 +191,10 @@ var sorgenCenters = { // Center locations of the bubbles.
 
   var sorgenalterTitleX = { // X locations of the year titles.
     
-    'Mache mir Sorgen um meine Daten': 150,
-    'Mache mir eher Sorgen ': 450,
-    'Mache mir eher keine Sorgen': 650,
-    'Mache mir keine Sorgen um meine Daten': 900,
+    'Jung-Sorgen': 150,
+    'Jung-keine Sorgen ': 450,
+    'Alt-Sorgen': 650,
+    'Alt-keine Sorgen': 800,
     
   };
        
@@ -207,12 +207,12 @@ var sorgenCenters = { // Center locations of the bubbles.
    };
 
   var sorgengeschlechtTitleX = { // X locations of the year titles.
-    'Mache mir Sorgen um meine Daten': 150,
-    'Mache mir eher Sorgen ': 350,
-    'Mache mir eher keine Sorgen': 550,
-    'Mache mir keine Sorgen um meine Daten': 750,
-    'Mache mir keine Sorgen um meine Datenasdf': 900
-  }; 
+    'Männlich-Sorgen': 150,
+    'Männlich-keine Sorgen': 350,
+    'Weiblich-Sorgen': 550,
+    'Weiblich-keine Sorgen': 720,
+    'Nonbinär': 900
+  };
 //* ------------------------------------------------------------------
 //
 // Teil 4 - Datenmanipulation (csv into JS)

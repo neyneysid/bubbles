@@ -827,7 +827,7 @@ hideSorgen();
 
   var fillColor = d3.scale.ordinal()
     .domain(['1','2','3', '4','5','6'])
-    .range(['#F7CAD0', '#ff006e', '#48CAE4', '#0096C7','#023E8A','#03045E']);
+    .range(['#F7CAD0', '#ffe5ec', '#f0a6ca', '#61a5c2','#023E8A','#1768ac']);
 
   /* Tooltip-Funktion*/
   function showDetail(d) {
